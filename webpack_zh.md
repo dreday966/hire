@@ -20,7 +20,6 @@
 - `module2~main.[hash].js`
 - `runtime~main.[hash].js`
 - `vendors~main.[hash].js`
-1
 
 
 
